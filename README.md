@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am AI enthusiastic and Web developer in Python , JS<br>🔭 I’m currently working on Building an AI Integrated Dashboard<br>🤝I'm Looking to Collaborate in concepts of Backend, AI projects<br>🌱 I’m currently learning neural network ,Backend Development (python)<br>💬 Ask me about My Skills<br>⚡ Fun fact , I am strong in Fundamentals. 
-Contact me through this mepavankumar15@gmail.com
+<br> Contact me through this mepavankumar15@gmail.com
 
 
 ## 🌐 Socials:
