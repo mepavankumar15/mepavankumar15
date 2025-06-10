@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [mepavankumar15](https://github.com/mepavankumar15)
 
-- 📝 I regularly write articles on [@avyu_15](https://medium.com/@avyu_15)
+- 📝 I casually write articles on [@avyu_15](https://medium.com/@avyu_15)
 
 - 💬 Ask me about **python and GO**
   
