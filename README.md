@@ -7,11 +7,13 @@
 
 - 🌱 I’m currently learning **next.js and web3**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mepavankumar15](https://github.com/mepavankumar15)
+- 👨‍💻 All of my projects are available at [mepavankumar15](https://github.com/mepavankumar15)
 
-- 📝 I regularly write articles on [https://medium.com/@avyu_15](https://medium.com/@avyu_15)
+- 📝 I regularly write articles on [@avyu_15](https://medium.com/@avyu_15)
 
 - 💬 Ask me about **python and GO**
+  
+- 👨🏻‍💻 Portfolio => [pavan-portfolio](https://pavan-portfolio-jet.vercel.app/)
 
 - 📫 How to reach me **mepavankumar15@gmail.com**
 
