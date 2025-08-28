@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pavan Kumar</h1>
 <h3 align="center">Developer</h3>
 
-- 🔭 I’m currently working on **JWT Authentication in GO**
+- 🔭 I’m currently working on **skills**
 
-- 🌱 I’m currently learning **next.js and web3**
+- 🌱 I’m currently learning **aws and web3**
 
 - 👨‍💻 All of my projects are available at [mepavankumar15](https://github.com/mepavankumar15)
 
