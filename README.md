@@ -10,14 +10,13 @@ SECURITY_LEVEL = ENCRYPTED
 ; An anonymous builder and privacy advocate operating in the digital shadows. 
 ; I build decentralized systems designed for sovereignty and resilience. Nullius in verba.
 
-<pre>
+
 ██╗    ██╗  ███████╗  ██████╗   ██████╗   ██████╗   ███████╗  ██╗   ██╗
 ██║    ██║  ██╔════╝  ██╔══██╗       ██╗  ██╔══██╗  ██╔════╝  ██║   ██║
 ██║ █╗ ██║  ███████╗  ██████╔╝  ██████╔╝  ██║  ██║  ███████╗  ██║   ██║
 ██║███╗██║  ██╔════╝  ██╔══██╗  ╚════██╗  ██║  ██║  ██╔════╝  ╚██╗ ██╔╝
 ╚███╔███╔╝  ███████╗  ██████╔╝  ██████╔╝  ██████╔╝  ███████╗   ╚████╔╝ 
  ╚══╝╚══╝   ╚══════╝  ╚═════╝   ╚═════╝   ╚═════╝   ╚══════╝    ╚═══╝  
-</pre>
 # ---
 ; > cat ./tech_stack.log
 [Tech Stack]
