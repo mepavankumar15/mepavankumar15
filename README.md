@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **skills**
 
-- 🌱 I’m currently learning **aws and web3**
+- 🌱 I’m currently learning **backend and web3**
 
 - 👨‍💻 All of my projects are available at [mepavankumar15](https://github.com/mepavankumar15)
 
 - 📝 I casually write articles on [@avyu_15](https://medium.com/@avyu_15)
 
-- 💬 Ask me about **python and GO**
+- 💬 Ask me about **python and GO, Rust**
   
 - 👨🏻‍💻 Portfolio => [pavan-portfolio](https://pavan-portfolio-jet.vercel.app/)
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mrpavankumar005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrpavankumar005" height="30" width="40" /></a>
+<a href="https://twitter.com/pavan15dotai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pavan15dotai" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pavan-kumar-kuchibhotla-3a34a8258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pavan-kumar-kuchibhotla-3a34a8258/" height="30" width="40" /></a>
 <a href="https://medium.com/@avyu_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@avyu_15" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/mepavankumar15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mepavankumar15/" height="30" width="40" /></a>
