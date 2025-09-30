@@ -26,7 +26,7 @@ FOCUS = DeFi Protocols, Dapps, On-chain Governance
 # ---
 ; > ls -a ./skills
 [Skills]
-Languages = Rust, Solidity, TypeScript, Go
+Languages = Rust, Python, TypeScript, Go
 Frameworks = Anchor, Foundry, React, Next.js
 Tools = Git, Docker, Linux, Solana CLI, Remix IDE
 ```
