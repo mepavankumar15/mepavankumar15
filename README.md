@@ -63,7 +63,6 @@ Tools = Git, Docker, Linux, Solana CLI, Remix IDE
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mepavankumar15&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
   </a>
 </p>
 
