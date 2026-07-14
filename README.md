@@ -67,3 +67,12 @@ Tools = Git, Docker, Linux, Solana CLI, Remix IDE
 </p>
 
 `> exit`
+
+
+<!-- GITHUBWALLPAPER:START -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubwallpaper.com/api/card/a0cli3egz6qz7rhw255sswfy?theme=dark&v=79e8e6946759">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubwallpaper.com/api/card/a0cli3egz6qz7rhw255sswfy?theme=light&v=79e8e6946759">
+  <img alt="GitHub profile card" src="https://githubwallpaper.com/api/card/a0cli3egz6qz7rhw255sswfy?theme=dark&v=79e8e6946759">
+</picture>
+<!-- GITHUBWALLPAPER:END -->
